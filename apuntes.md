@@ -26,4 +26,3 @@ autofiltro:Modificación.
 ·Max:=Max (A1:A3)
 -Las formulas sum,min,max etc... ordenas al ordenador a hacer los calculos automaticamente.
 -Ajuste de texto:cuando escribe largo sigue linearecta, de lado si se escribe lo largo se corta.
--
