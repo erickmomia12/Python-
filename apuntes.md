@@ -42,3 +42,9 @@ autofiltro:Modificación.
 
 ·Max:=Max (A1:A3)
 
+Porcentaje
+
+IF,Then,Eif
+
+
+
