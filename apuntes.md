@@ -1,6 +1,7 @@
 
-M03 Aplicacions ofirmàtiques-UF4 Fulls de càlculs-Lista de distribuccio Calc(moodle) en ordenador. Las listas en mano y los deberes a ordenador
-una hoa de calculo basicamente es una herramienta para la gestión de un negocio, capaz de organizar y gestionar enormes cantidades de datos.
+M03 Aplicacions ofirmàtiques-UF4 Fulls de càlculs-Lista de distribuccio Calc(moodle) en ordenador. 
+Una hoJa de calculo basicamente es una herramienta para la gestión de un negocio, capaz de organizar y gestionar enormes cantidades de datos.
+
 El F11 maximiza la ventana del navegador 
 
 Amagar las columnas y filas nos facilita ocultarlo sin eliminarlo haciendo click derecho y click ocultar o mostrar
