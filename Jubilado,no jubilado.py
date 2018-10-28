@@ -1,5 +1,5 @@
 edad = 0;
-sexe = 1;          #0 és dona, 1 és home
+sexe = 1;          #0 és mujer, 1 és hombre
 colorCabell = 0;
 precioFinal = 0;
 
