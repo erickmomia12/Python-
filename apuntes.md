@@ -46,7 +46,10 @@ Porcentaje
 
 IF,Then,Eif
 
-IVA: 500*0,21=105 Precio con iva =500+105=605
+IVA: precio sin IVA+precio sin IVA*0,21=precio a pagar
+
+Recargos
+
 
 
 
