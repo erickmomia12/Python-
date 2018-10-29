@@ -12,4 +12,4 @@ if edad >=65:
 if edad >5 and edad <65:
     precioFinal = 2.15;
 
-print("El precio final es:",precioFinal);
+print("El precio es:",precioFinal);
