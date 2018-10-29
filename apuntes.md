@@ -42,7 +42,7 @@ autofiltro:Modificación.
 
 ·Max:=Max (A1:A3)
 
-Porcentaje
+Porcentaje: Largo= 88*(14/100)  corto 88*0,14
 
 IF,Then,Eif
 
