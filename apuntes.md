@@ -46,5 +46,7 @@ Porcentaje
 
 IF,Then,Eif
 
+IVA: 500*0,21=105 Precio con iva =500+105=605
+
 
 
