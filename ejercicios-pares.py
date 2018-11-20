@@ -1,5 +1,5 @@
 alumnos = int(input("Cuantos alumnos tienes? "))
 euro = int(input("Cuantos euros daras cada uno? "))
-print("Que bonito número", euro % alumnos, "par")
+print("Qué bonito número", euro % alumnos, "par")
 print("Qué numero", euro // alumnos, "mas vulgar")
 print("Qué numero", euro / alumnos, "mas vulgar")
