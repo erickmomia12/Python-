@@ -1,1 +1,1 @@
-Paradigma:Leer,variable,juego de pruebas,papel,python
+Paradigma: Leer,variable,juego de pruebas,papel,python
