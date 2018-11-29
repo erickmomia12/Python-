@@ -1,5 +1,5 @@
-alumnos = int(input("Cuantos alumnos tienes? "))
-euro = int(input("Cuantos euros daras cada uno? "))
-print("Aún quedan", alumnos % euro, "euro")
-print("Qué numero", euro // alumnos, "mas vulgar")
-print("Qué numero", euro / alumnos, "mas vulgar")
+numero = int(input("Introduce cualquier numero:"))   
+if (numero % 2 == 0):  
+    print("Es par, que bonito numero par")       
+else:   
+    print("Es impar, que numero mas vulgar") 
